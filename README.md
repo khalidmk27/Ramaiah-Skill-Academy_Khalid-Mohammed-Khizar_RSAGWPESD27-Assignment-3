@@ -44,7 +44,15 @@ This repository contains solutions to Arduino-assignment involving various senso
 - **Code**: Counts entries and exits, and verifies direction.
 
 ## Demonstration
-All projects can be demonstrated using Tinkercad (online).
+All projects can be demonstrated using Tinkercad (online):
+
+- [Countdown Timer with Obstacle-Activated Reset](https://www.tinkercad.com/things/2wsbjeM0DIA-countdown-timer-with-obstacle-activated-reset?sharecode=js_jaMUkzmC67kO5IJSHIjJ-OKIzBwApJQECKtBkilU)
+- [Touch-Activated Range Finder](https://www.tinkercad.com/things/kupuWCpJKHu-touch-activated-range-finder?sharecode=n-yG7gnOPSpSYv8TKtzR1mAgDPe3oaEH7Qe1pOUIoIA)
+- [Smart Distance Counter](https://www.tinkercad.com/things/fi3BHipNIfw-smart-distance-counter?sharecode=JxAAgicGdBl8fgUNJE4nf98S7uKFirzO6Ff0G9aHkrg)
+- [People Counter with Direction Detection](https://www.tinkercad.com/things/iMcXLutfaIe-people-counter-with-direction-detection?sharecode=-f1ICAQWQm3SyLjSfiMxROMfoNS_73iguzWETL_m9uI)
+- [Temperature Monitoring System](https://www.tinkercad.com/things/9lS9hqaYtuk-temperature-monitoring-system?sharecode=1W_33yc-i6A21tBFtIK_g7rzr0EclFym-338nX9nxAw)
+- [Motion-Activated Alarm](https://www.tinkercad.com/things/a6DbMU7dvBs-motion-activated-alarm?sharecode=-OBLiOb_yFxVT3Vcn4Poj2gKKBGKM-8XLKHBfpoyGQ8)
+- [Distance Measurement Display](https://www.tinkercad.com/things/hvmqIRcHJ9z-distance-measurement-display?sharecode=Z5e6A1cL-KiyIYnE0Hc58U5phdnW9FnWmhTtq2YJhOQ)
 
 ## Getting Started
 1. Clone this repository:
