@@ -57,7 +57,7 @@ All projects can be demonstrated using Tinkercad (online):
 ## Getting Started
 1. Clone this repository:
    ```bash
-   git clone https://github.com/khalidmk27/your-repo-name.git
+   git clone https://github.com/khalidmk27/Ramaiah-Skill-Academy_Khalid-Mohammed-Khizar_RSAGWPESD27-Assignment-3.git
 
 2. Navigate to each problem folder for circuit details and Arduino code.
 
